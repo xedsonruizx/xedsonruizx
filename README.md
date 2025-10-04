@@ -4,7 +4,6 @@ Hello, I am Edson<br>I am a web developer. I have being working as a front end d
 📄 Know about my experiences
 <br>
 - I worked for 1 year for Neering SPA . A it I was responsible of creation of multiple responsive pages with design using Html, Js, Css, Sass, Php Laravel and Vue Js as javascript library.
-<br>
 - 2 and a half year in Apside. Where I took the role of Salesforce administration. and continuing developing my skills. Furthermore I had the role of functional QA, Front end and Back End developer.
 <br>
 <br>Adiccionally: 
