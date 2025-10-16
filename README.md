@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-Hello, I am Edson<br>I am a web developer. I have being working as a front end developer.<br>🔭 I’m currently working on My self...<br>Getting experience and challeging my self with: <br>- https://www.frontendmentor.io/profile/xedsonruizx<br>- https://www.hackerrank.com/edsonruizsalinas<br><br>🌱 I’m currently learning Reacjs, node js, and new properties of Css<br><br>👨‍💻 All of my projects are available at [https://edson-repository.vercel.app/](https://potafolio-wheat.vercel.app/#projects) <br>- Where you will be able to see my "live" front end proyect and part of my repository that is being builded<br> <br>
+Hello, I am Edson<br>I am a web developer. I have being working as a front end developer.<br>🔭 I’m currently working on My self...
+<br>Getting experience and challeging my self with: 
+<br>- https://www.frontendmentor.io/profile/xedsonruizx<br>- https://www.hackerrank.com/edsonruizsalinas<br>
+<br>🌱 I’m currently learning Reacjs, node js, and new properties of Css<br>
+<br>👨‍💻 All of my projects are available at [[https://edson-repository.vercel.app/](https://potafolio-wheat.vercel.app/#projects) ](https://portafolio-ashy-iota-53.vercel.app/)
+<br>- Where you will be able to see my "live" front end proyect and part of my repository that is being builded<br> <br>
 📄 Know about my experiences
 <br>
 - I worked for 1 year for Neering SPA . A it I was responsible of creation of multiple responsive pages with design using Html, Js, Css, Sass, Php Laravel and Vue Js as javascript library.
