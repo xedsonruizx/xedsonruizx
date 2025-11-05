@@ -19,7 +19,7 @@ Hello, I am Edson<br>I am a web developer. I have being working as a front end d
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Edson Ruiz Salinas)
+<a href="https://www.linkedin.com/in/edson-ruiz-salinas/">Linkedin</a>
 
 # 💻 Tech Stack:
 
